@@ -18,4 +18,7 @@ In this modal dialog, you will have your set of orders with its corresponding am
 
 ### Design
 
-There will be some cute sushi icons in the mix. Definitely to indicate whether or not something is vegeterian or not. Maybe have cat sushi chef as the background of the modal dialog window(?) and or next to the order button.
+The idea is to have a minimilistic design but with some icons giving everything its flare, so to speak. For example, there will be some cute sushi icons in the mix. Definitely to indicate whether or not something is vegeterian or not. Maybe have cat sushi chef as the background of the modal dialog window(?) and or next to the order button.
+
+**_Color_**<br>
+The background color will be either a black or white.
