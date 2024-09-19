@@ -14,4 +14,8 @@ This page will provide the user (<sub>customer</sub>) with an overview of all th
 ...<br>
 <br>
 **_Order Overview_**<br>
-In this modal dialog, you will have your set of orders with its corresponding amounts for each item and its prices; showing the grand total at the end.
+In this modal dialog, you will have your set of orders with its corresponding amount for each item and its prices; showing the grand total at the end. It may even be possible to increase or decrease particular items so that the customer does not need to close the dialog window and have to search for the item individually.
+
+### Design
+
+There will be some cute sushi icons in the mix. Definitely to indicate whether or not something is vegeterian or not. Maybe have cat sushi chef as the background of the modal dialog window(?) and or next to the order button.
