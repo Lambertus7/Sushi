@@ -23,5 +23,8 @@ The idea is to have a minimilistic design but with some icons giving everything 
 **_Color_**<br>
 The background color will be either a black or white. If white, the font color will black with maybe one or two phrases being red. This may be to indicate the spicy level of the item in question or what type of diet it beongs to. <br>
 <br>
+**_Font_**<br>
+The font will be something that is not too casual but not too professional either. Maybe comics-sans? I'm kidding, got you there eventhough i am tempted to. But no, it'll probably be something that looks like Times New Roman.<br>
+<br>
 **_Icons_**<br>
 Each icon will be different, that means the color will be different; the meaning itself and the possibly the size will be the same throughout the whole website.
