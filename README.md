@@ -39,8 +39,9 @@ Above all the cards, thus the catalog itself, there will be a navbar to be found
 The navbar will contain the following:
 
 <li> Specials
-<li> Vegeterian
-<li> Grilled
 <li> Sushi
 <li> Maki 
+<li> Vegeterian
+<li> Grilled
+<li> Desserts
 <li> The search icon 🔎
