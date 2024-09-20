@@ -31,4 +31,5 @@ The font will be something that is not too casual but not too professional eithe
 Each icon will be different, that means the color will be different; the meaning itself and the possibly the size will be the same throughout the whole website.<br>
 <br>
 **_Cards_**<br>
-Every food item, will be a card. Each card will have an effect when the customer either hovers or clicks on said cards. This still needs to be decided
+Every food item, will be a card. Each card will have an effect when the customer either hovers or clicks on said cards. This still needs to be decided TBA.
+The cards will have an image of the food item with a white background. Once the card is flipped, either the background will be white or blurry-glassy look to it; TBA.
