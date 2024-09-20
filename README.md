@@ -36,3 +36,11 @@ The cards will have an image of the food item with a white background. Once the 
 <br>
 **_Navbar_**<br>
 Above all the cards, thus the catalog itself, there will be a navbar to be found. This navbar will have a blurry-glass look to it centered in the middle.
+The navbar will contain the following:
+
+<li> Specials
+<li> Vegeterian
+<li> Grilled
+<li> Sushi
+<li> Maki 
+<li> The search icon 🔎
