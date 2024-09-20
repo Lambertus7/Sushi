@@ -11,7 +11,7 @@ The Homepage is where the user ( <sub>customer</sub>) will have a fun little but
 
 **_Catalog_**<br>
 This page will provide the user (<sub>customer</sub>) with an overview of all the available dishes and maybe even promotions that is going on. <br> This page will have a navigation bar to select from the most popular items to the chef's special; in between you will have all the categories the different items fall under so that the customer have an easier way to search. It may even have a possible search button should the customer already know what he/she may want to order. Behind every item, there will be increment and decrement button. In the description of every item there will be an icon(s) to indicate the type of allergen and if it is a vegeterian item or not; what type of protein for said item may also be indicated via a icon (think about a pork, fish, chicken and cow). <br> This is the page where the user will have a basket in the bottom-right corner to check on their orders. This may possibly be a modal dialog instead of making a whole page, this is for performance purposes, and it looks nicer tihi. <br>
-
+The catalog will consist of cards and each card will be an item. Once the customer hovers over the card it will flip over and show you all the details that make up this food item. Maybe it will be a clck instead of a hover effect, TBA.
 <br>
 <br>
 **_Order Overview_**<br>
