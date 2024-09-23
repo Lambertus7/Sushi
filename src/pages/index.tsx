@@ -7,6 +7,7 @@ const Homepage = () => {
   const [showCookieConsent, setShowCookieConsent] = useState(false);
 
   useEffect(() => {
+    console.log("CookieConsent value:", cookies.cookieConsent);
     if (!cookies.cookieConsent) {
       setShowCookieConsent(true);
     }

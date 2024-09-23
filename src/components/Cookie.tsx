@@ -10,7 +10,7 @@ const CookieConsent = () => {
     <div className="cookie-container">
       <p>
         We use cokies to enhance your user expereince. By using our website, you
-        agree ti iyr use of cookies. {""}
+        agree to the use of cookies. {""}
         <Link href={"/privacy-policy"}> Learn more</Link>
       </p>
       <button className="cookie-btn" onClick={giveConsent}>
