@@ -1,11 +1,10 @@
-import { useEffect, useState } from "react";
-import CookieConsent from "@/components/Cookie";
-import { useCookies } from "react-cookie";
+import Footer from "@/components/Footer";
 
 const Homepage = () => {
   return (
     <div>
       <h1>Welcome to the Homepage!</h1>
+      <Footer />
     </div>
   );
 };
