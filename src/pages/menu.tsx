@@ -5,3 +5,4 @@ const MenuPage = () => {
     </div>
   );
 };
+export default MenuPage;
