@@ -3,7 +3,16 @@ const Navbar = () => {
     <nav>
       <div>
         <ul>
-          <li></li>
+          <li>
+            <a href="/">Home</a>
+          </li>
+          <li>
+            <a href="/menu">Menu</a>
+          </li>
+          <li>
+            <a href="/about">About us</a>
+          </li>
+          <li>{/* <a href="/privacy">Privacy Policy</a> */}</li>
         </ul>
       </div>
     </nav>
