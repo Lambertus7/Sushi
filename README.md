@@ -1,12 +1,14 @@
 # Welcome Reader to the (possible) Sushi website
 
-## The roadmap
+_In this md file, you will be brought up to speed what is; what will come to be; and the why behind it all for this sushi website._
 
-Website Development Roadmap
+## Website Development Roadmap
+
 Phase 1: Core Pages & Layout
-Home Page (Landing Page)
 
-Design & Structure: Include a hero section with the restaurant name, logo, and a featured image (maybe sushi or the interior of the restaurant).
+- Home Page (Landing Page)
+
+**Design & Structure:** Include a hero section with the restaurant name, logo, and a featured image (maybe sushi or the interior of the restaurant).
 Content: Welcome message, key services (dine-in, takeout, delivery), and a call-to-action like "View Menu" or "Make a Reservation."
 Components:
 Navigation Bar (links to Menu, About, Contact)
@@ -97,8 +99,6 @@ Deployment
 Deploy the site to a platform like Vercel (which is optimized for Next.js) or Netlify.
 Set up a custom domain and configure SSL certificates for secure browsing.
 Configure environment variables for production (e.g., API keys, database credentials).
-
-_In this md file, you will be brought up to speed what is; what will come to be; and the why behind it all for this sushi website._
 
 ## The Structure
 
