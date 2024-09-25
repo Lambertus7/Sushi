@@ -11,3 +11,8 @@ const AboutPage = () => {
   );
 };
 export default AboutPage;
+
+// Content: Story of the restaurant, chef introduction, core values, and customer testimonials.
+// Components:
+// Team or Chef bio section.
+// Timeline or story section about the restaurant.
