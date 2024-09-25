@@ -11,3 +11,8 @@ const PrivacyPolicyPage = () => {
   );
 };
 export default PrivacyPolicyPage;
+
+// Content: Contact form, email, phone number, address, and opening hours.
+// Components:
+// Contact Form (name, email, message).
+// Map integration (Google Maps, Leaflet) showing the restaurant location.
