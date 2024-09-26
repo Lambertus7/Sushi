@@ -18,6 +18,7 @@ export default Homepage;
 // Content: Welcome message, key services (dine-in, takeout, delivery), and a call-to-action like "View Menu" or "Make a Reservation."
 // Components:
 // Navigation Bar (links to Menu, About, Contact)
+// Maybe even a subnavbar for the menu itself.
 // Hero Section with a big banner image
 // Featured Sushi Items or Chef’s Special
 // Footer (already created)
