@@ -1,8 +1,8 @@
 const Navbar = () => {
   return (
-    <nav>
-      <div>
-        <ul>
+    <nav className="navbar">
+      <div className="navbar-container">
+        <ul className="navbar-links">
           <li>
             <a href="/">Home</a>
           </li>
