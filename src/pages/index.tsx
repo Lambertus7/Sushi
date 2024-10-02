@@ -22,3 +22,4 @@ export default Homepage;
 // Hero Section with a big banner image
 // Featured Sushi Items or Chef’s Special
 // Footer (already created)
+// At the end of all of this, think of a way to incorporate Redux maybe even context provider
