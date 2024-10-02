@@ -1,24 +1,37 @@
+import Link from "next/link";
+
 const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <ul className="navbar-links">
+        <div className="logo">
+          <Link href="/">Sushi Delight</Link>
+        </div>
+        <ul className="nav-links">
           <li>
-            <a href="/">Home</a>
+            <Link href="/">Home</Link>
           </li>
           <li>
-            <a href="/menu">Menu</a>
+            <Link href="/menu">Menu</Link>
           </li>
           <li>
-            <a href="/about">About us</a>
+            <Link href="/about">About us</Link>
           </li>
           <li>
-            <a href="/contact">Contact</a>
+            <Link href="/contact">Contact</Link>
           </li>
-          <li>{/* <a href="/privacy">Privacy Policy</a> */}</li>
         </ul>
+        <div className="nav-icons">
+          <a href="https://facebook.com" target="_blank">
+            <img src="/icons/facebook-icon.svg" alt="Facebook" />
+          </a>
+          <a href="https://instagram.com" target="_blank">
+            <img src="/icons/instagram-icon.svg" alt="Instagram" />
+          </a>
+        </div>
       </div>
     </nav>
   );
 };
+
 export default Navbar;
