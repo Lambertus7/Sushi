@@ -21,11 +21,11 @@ const Navbar = () => {
             <Link href="/contact">Contact</Link>
           </li>
         </ul>
-        <div className="nav-icons">
-          <a href="https://facebook.com" target="_blank">
+        <div className="social-icons">
+          <a className="icon" href="https://facebook.com" target="_blank">
             <i className="fa-brands fa facebook"></i>
           </a>
-          <a href="https://instagram.com" target="_blank">
+          <a className="icon" href="https://instagram.com" target="_blank">
             <i className="fa-brands fa-instagram"></i>
           </a>
         </div>
