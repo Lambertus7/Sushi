@@ -23,10 +23,10 @@ const Navbar = () => {
         </ul>
         <div className="nav-icons">
           <a href="https://facebook.com" target="_blank">
-            <img src="/icons/facebook-icon.svg" alt="Facebook" />
+            <i className="fa-brands fa facebook"></i>
           </a>
           <a href="https://instagram.com" target="_blank">
-            <img src="/icons/instagram-icon.svg" alt="Instagram" />
+            <i className="fa-brands fa-instagram"></i>
           </a>
         </div>
       </div>

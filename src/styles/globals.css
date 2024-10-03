@@ -51,16 +51,15 @@ a:hover {
   font-size: 14px;
 }
 
-/* Navbar container */
 .navbar {
-  background: linear-gradient(90deg, #ff5f6d, #ffc371); /* Modern gradient */
+  background: linear-gradient(90deg, #ff5f6d, #ffc371);
   padding: 15px 20px;
   position: fixed;
   width: 100%;
   top: 0;
   left: 0;
   z-index: 1000;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   transition: background 0.3s ease;
 }
 
@@ -72,7 +71,6 @@ a:hover {
   margin: 0 auto;
 }
 
-/* Logo */
 .logo a {
   font-size: 24px;
   font-family: "Poppins", sans-serif;
@@ -83,7 +81,6 @@ a:hover {
   letter-spacing: 2px;
 }
 
-/* Navigation links */
 .nav-links {
   list-style: none;
   display: flex;
@@ -106,16 +103,14 @@ a:hover {
   transition: color 0.3s ease;
 }
 
-/* Hover Effect */
 .nav-links a:hover {
   color: #fff;
-  background: rgba(255, 255, 255, 0.1); /* Subtle hover effect */
+  background: rgba(255, 255, 255, 0.1);
   border-radius: 5px;
-  transform: translateY(-3px); /* Hover pop-up effect */
+  transform: translateY(-3px);
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
-/* Hover underline animation */
 .nav-links a::before {
   content: "";
   position: absolute;
@@ -131,7 +126,6 @@ a:hover {
   width: 100%;
 }
 
-/* Icons section for social media */
 .nav-icons {
   display: flex;
   gap: 15px;
@@ -145,7 +139,7 @@ a:hover {
 
 .nav-icons a img:hover {
   transform: scale(1.2);
-  filter: brightness(1.2); /* Lighten the icons on hover */
+  filter: brightness(1.2);
 }
 
 /* Responsive design */
