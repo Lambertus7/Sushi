@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container">
         <div className="contact">
           <h3>Contact Us</h3>
-          <p>Email: info@sushi-restaurant.com</p>
+          <p>Email: info@sushi-delight.com</p>
           <p>Phone: (123) 456-7890</p>
         </div>
         <div className="links">
