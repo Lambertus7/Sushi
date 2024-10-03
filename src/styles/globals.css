@@ -126,18 +126,18 @@ a:hover {
   width: 100%;
 }
 
-.nav-icons {
+.social-icons {
   display: flex;
   gap: 15px;
 }
 
-.nav-icons a img {
+.social-icons .icon {
   width: 24px;
   height: 24px;
   transition: transform 0.3s ease, filter 0.3s ease;
 }
 
-.nav-icons a img:hover {
+.social-icons a .icon:hover {
   transform: scale(1.2);
   filter: brightness(1.2);
 }
