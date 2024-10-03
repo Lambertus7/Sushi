@@ -40,8 +40,8 @@ const Footer = () => {
               </Link>
             </li>
             <li>
-              <Link href="https://twitter.com" target="_blank">
-                Twitter
+              <Link href="https://x.com" target="_blank">
+                X
               </Link>
             </li>
           </ul>
