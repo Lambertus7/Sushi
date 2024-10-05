@@ -36,4 +36,4 @@ const Navbar = () => {
 
 export default Navbar;
 
-//I am writing this so that i don't lose my streak on Github tihi
+//I am writing this so that i don't lose my streak on Github tihi.
